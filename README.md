@@ -1,6 +1,6 @@
 # TeleMed Africa - Telemedicine Platform
 
-A comprehensive telemedicine solution designed for the African healthcare system, enabling remote medical consultations, appointment scheduling, and healthcare management.
+A comprehensive telemedicine app solution designed for the African healthcare system, enabling remote medical consultations, appointment scheduling, and healthcare management.
 
 ## Features
 
